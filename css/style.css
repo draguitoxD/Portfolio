@@ -1,0 +1,16 @@
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+#navbar{ 
+    background-color: #d4f80b;
+    padding: 2em 1em 1em 1em;
+}
+#section{
+    margin: 2em;
+}
+
